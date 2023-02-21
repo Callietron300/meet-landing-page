@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](.assets\Screenshot Meet landing page.png)
+![Screenshot](assets\Screenshot Meet landing page.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://callietron300.github.io/meet-landing-page/]([https://your-live-site-url.com](https://callietron300.github.io/meet-landing-page/))
 
 ## My process
 
