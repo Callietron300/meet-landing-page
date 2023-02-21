@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](assets\Screenshot Meet landing page.png)
+![Screenshot](assets/Screenshot Meet landing page.png)
 
 ### Links
 
