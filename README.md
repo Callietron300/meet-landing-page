@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://callietron300.github.io/meet-landing-page/]([https://your-live-site-url.com](https://callietron300.github.io/meet-landing-page/))
+- Live Site URL: [https://callietron300.github.io/meet-landing-page/](https://your-live-site-url.com](https://callietron300.github.io/meet-landing-page/)
 
 ## My process
 
