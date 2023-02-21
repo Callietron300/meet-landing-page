@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](.assets\Screenshot Meet landing page.png)
 
 ### Links
 
@@ -62,4 +62,5 @@ Things I would love help with:
 Callie :)
 
 ## Acknowledgments
+
 # meet-landing-page
