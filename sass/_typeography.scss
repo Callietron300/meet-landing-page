@@ -1,0 +1,60 @@
+.heading-primary {
+  font-size: 6rem;
+  line-height: 6rem;
+  font-family: 900;
+  color: var(--color-black);
+}
+
+.heading-secondary {
+  font-size: 4rem;
+  line-height: 4rem;
+  font-weight: 900;
+  color: var(--color-black);
+
+  &_white {
+    color: var(--color-white);
+  }
+}
+
+.overline {
+  font-size: 2rem;
+  line-height: 2.6rem;
+  font-weight: 900;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  color: var(--color-blue-dark);
+}
+
+.btn {
+  font-weight: 900;
+  padding: 1.5rem 3.5rem;
+  border-radius: 4rem;
+  text-decoration: none;
+  color: var(--color-white);
+  margin: 0.5rem 0.5rem;
+  display: inline-block;
+
+  &-blue {
+    background-color: var(--color-blue-dark);
+
+    & span {
+      color: var(--color-blue-light);
+    }
+
+    &:hover {
+      background-color: #71c0d4;
+    }
+  }
+
+  &-purple {
+    background-color: var(--color-purple-dark);
+
+    & span {
+      color: var(--color-purple-light);
+    }
+
+    &:hover {
+      background-color: #b18bdd;
+    }
+  }
+}
