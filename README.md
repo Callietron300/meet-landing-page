@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/meeting-landing-page-cv5cRQgHdH)
-- [Live Site URL](https://your-live-site-url.com](https://callietron300.github.io/meet-landing-page/)
+- [Frontend Solution](https://www.frontendmentor.io/solutions/meeting-landing-page-cv5cRQgHdH)
+- [Live Site](https://callietron300.github.io/meet-landing-page/)
 
 ## My process
 
